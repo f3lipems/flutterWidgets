@@ -27,7 +27,7 @@ class HomePage extends StatelessWidget {
         body: TabBarView(children: <Widget>[
           _body(context),
           Container(
-            color: Colors.green,
+            color: Colors.gren,
           ),
         ],),
         floatingActionButton: FloatingActionButton(
